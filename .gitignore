@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Timelapser spezifisch
+last_session.json
+timelapser_config.json
+temp_preview.jpg
+temp_p.jpg
+captures_*/
+*_settings.json
+
+# System
+.DS_Store
