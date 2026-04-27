@@ -1,6 +1,6 @@
 # Timelapser Pi Controller 📸
 
-Ein professionelles Steuerungstool für Raspberry Pi Zeitraffer-Kameras mit Python, PyQt6 und SSH.
+Ein  Steuerungstool für Raspberry Pi Zeitraffer-Kameras mit Python, PyQt6 und SSH.
 
 ## Features
 - **Remote Control:** Start/Stop und Zeitplan-Konfiguration via SSH.
@@ -19,3 +19,6 @@ Ein professionelles Steuerungstool für Raspberry Pi Zeitraffer-Kameras mit Pyth
 
 ## Worker Setup (Raspberry Pi)
 Kopiere `timelapser_worker.py` auf den Pi und führe dort `install_worker.sh` aus.
+
+
+Der Code wurde mit Google Gemini erzeugt
